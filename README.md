@@ -23,10 +23,3 @@ A lightweight and easy-to-use Chrome extension that summarizes web page content 
 
 ---
 
-## 🚀 Installation
-
-### From Source (Developer Mode)
-
-1. Clone or download this repository:
-   ```bash
- https://github.com/itsReek/AI-SUMMARISER-CHROME-EXTENSION.git  git clone https://github.com/your-username/ai-summarizer-extension.git
