@@ -22,7 +22,7 @@ A lightweight and easy-to-use Chrome extension that summarizes web page content 
 - **Gemini API (Google AI)**
 
 ---
-4️⃣ Installation Instructions
+
 
 ## 🛠️ Installation
 1. Download this repository as ZIP and extract it.
