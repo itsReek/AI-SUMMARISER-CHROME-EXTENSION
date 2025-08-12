@@ -22,4 +22,11 @@ A lightweight and easy-to-use Chrome extension that summarizes web page content 
 - **Gemini API (Google AI)**
 
 ---
+4️⃣ Installation Instructions
 
+## 🛠️ Installation
+1. Download this repository as ZIP and extract it.
+2. Open Chrome and go to `chrome://extensions/`.
+3. Turn on **Developer Mode** (top right).
+4. Click **Load unpacked** and select the extracted folder.
+5. Extension will be installed and ready to use.
